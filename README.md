@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Calista2628
+- 👋 Hi, I’m amshika!
 - 👀 I’m interested in nothing 
 - 🌱 I’m currently learning to code
   
