@@ -1,5 +1,4 @@
-- 👋 Hi, I’m amshika!
-- 👀 I’m interested in nothing 
+- 👋 Hi, I am Amshika 
 - 🌱 I’m currently learning to code
   
 
